@@ -1,0 +1,10 @@
+{
+  "enablePullDownRefresh": false,
+  "disableScroll": true,
+  "navigationBarTitleText": "LANGAI",
+  "navigationBarTextStyle": "white",
+  "navigationBarBackgroundColor": "#ffd865",
+  "usingComponents": {
+    "u-search": "/uview-ui/components/u-search/u-search"
+  }
+}

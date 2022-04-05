@@ -1,0 +1,1 @@
+<view><view><view class="top"><image src="/static/icon/personalpage.png" mode="widthFix"></image></view><subsection vue-id="704e9d00-1" bind:__l="__l"></subsection></view><u-tabbar vue-id="704e9d00-2" list="{{tabbar}}" mid-button="{{true}}" bind:__l="__l"></u-tabbar></view>

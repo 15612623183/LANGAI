@@ -1,0 +1,6 @@
+
+.searchclass{
+	height: 12vh;
+	display: flex;
+}
+

@@ -1,0 +1,60 @@
+{
+    "pages": [
+        "pages/begin/begin",
+        "pages/my/my",
+        "pages/market/market",
+        "pages/identification/identification",
+        "pages/photograph/photograph",
+        "pages/start/start",
+        "pages/home/home",
+        "pages/search/search",
+        "pages/upload/upload"
+    ],
+    "subPackages": [],
+    "window": {
+        "navigationBarTextStyle": "black",
+        "navigationBarTitleText": "Langai",
+        "navigationBarBackgroundColor": "#ffffff",
+        "backgroundColor": "#F8F8F8"
+    },
+    "tabBar": {
+        "color": "#000",
+        "backerStyle": "white",
+        "selectedColor": "#555",
+        "backgroundColor": "#e6e6e6",
+        "list": [
+            {
+                "pagePath": "pages/home/home",
+                "text": "首页",
+                "iconPath": "static/icon/1.png",
+                "selectedIconPath": "static/icon/1-1.png"
+            },
+            {
+                "pagePath": "pages/identification/identification",
+                "text": "鉴别",
+                "iconPath": "static/icon/2.png",
+                "selectedIconPath": "static/icon/2-2.png"
+            },
+            {
+                "pagePath": "pages/market/market",
+                "text": "花市",
+                "iconPath": "static/icon/3.png",
+                "selectedIconPath": "static/icon/3-3.png"
+            },
+            {
+                "pagePath": "pages/photograph/photograph",
+                "text": "拍照",
+                "iconPath": "static/icon/4.png",
+                "selectedIconPath": "static/icon/4-4.png"
+            },
+            {
+                "pagePath": "pages/my/my",
+                "text": "我的",
+                "iconPath": "static/icon/5.png",
+                "selectedIconPath": "static/icon/5-5.png"
+            }
+        ]
+    },
+    "usingComponents": {},
+    "sitemapLocation": "sitemap.json"
+}
